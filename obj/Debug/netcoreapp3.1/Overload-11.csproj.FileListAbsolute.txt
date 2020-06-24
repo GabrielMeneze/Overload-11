@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\Overload-11\bin\Debug\netcoreapp3.1\Overload-11.exe
+C:\Users\gabriel\Documents\GitHub\Overload-11\bin\Debug\netcoreapp3.1\Overload-11.deps.json
+C:\Users\gabriel\Documents\GitHub\Overload-11\bin\Debug\netcoreapp3.1\Overload-11.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\Overload-11\bin\Debug\netcoreapp3.1\Overload-11.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\Overload-11\bin\Debug\netcoreapp3.1\Overload-11.dll
+C:\Users\gabriel\Documents\GitHub\Overload-11\bin\Debug\netcoreapp3.1\Overload-11.pdb
+C:\Users\gabriel\Documents\GitHub\Overload-11\obj\Debug\netcoreapp3.1\Overload-11.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\Overload-11\obj\Debug\netcoreapp3.1\Overload-11.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\Overload-11\obj\Debug\netcoreapp3.1\Overload-11.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\Overload-11\obj\Debug\netcoreapp3.1\Overload-11.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\Overload-11\obj\Debug\netcoreapp3.1\Overload-11.dll
+C:\Users\gabriel\Documents\GitHub\Overload-11\obj\Debug\netcoreapp3.1\Overload-11.pdb
+C:\Users\gabriel\Documents\GitHub\Overload-11\obj\Debug\netcoreapp3.1\Overload-11.genruntimeconfig.cache
